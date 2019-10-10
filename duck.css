@@ -5,7 +5,7 @@
     height: 600px;
     position: relative;
 }
-.ducks {
+.duck {
     display: inline-block;
     border-radius: 50%;
     width: 40px;
